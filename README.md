@@ -1,7 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp><strong>👋 Hi, I'm <a href="https://ktptran.com">Kevin</a>.</strong> 
+    <br> 
+    I'm a 👨🏻‍💻 <a href="https://iq.aws.amazon.com/e/ktptran">freelance solutions architect</a> and rising senior at the University of Washington.
+    <br>
+    You can reach me through <a href="mailto:kevin.tran@ktptran.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
+    <br>
+  <br>
+  <br>
+</p>
+
+
 
 <!--
-**ktptran/ktptran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yosriady/yosriady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
