@@ -4,9 +4,10 @@
   <br>
   <samp><strong>👋 Hi, I'm <a href="https://ktptran.com">Kevin</a>.</strong> 
     <br> 
-    I'm a 👨🏻‍💻 <a href="https://iq.aws.amazon.com/e/ktptran">freelance solutions architect</a> and rising senior at the University of Washington.
+    I'm an 👨🏻‍💻 Associate Solutions Architect at 
+    <a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a>.
     <br>
-    You can reach me through <a href="mailto:kevin.tran@ktptran.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
+    You can reach me through 📫 <a href="mailto:kevin.tran@ktptran.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
     <br>
   <br>
   <br>
