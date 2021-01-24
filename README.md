@@ -7,7 +7,7 @@
     I'm an 👨🏻‍💻 Associate Solutions Architect at 
     <a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a>.
     <br>
-    You can reach me through 📫 <a href="mailto:kevin.tran@ktptran.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
+    You can reach me through 📫 <a href="mailto:kevintptran@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
     <br>
   <br>
   <br>
