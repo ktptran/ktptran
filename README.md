@@ -4,8 +4,7 @@
   <br>
   <samp><strong>👋 Hi, I'm <a href="https://ktptran.com">Kevin</a>.</strong> 
     <br> 
-    I'm an 👨🏻‍💻 Associate Solutions Architect at 
-    <a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a>.
+    I'm an 👨🏻‍💻 AWS Solutions Architect with 3 years of experience.
     <br>
     You can reach me through 📫 <a href="mailto:kevintptran@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
     <br>
