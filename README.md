@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp><strong>👋 Hi, I'm <a href="https://ktptran.com">Kevin</a>.</strong> 
+  <samp><strong>👋 Hi, I'm <a href="https://ktptran.xyz">Kevin</a>.</strong> 
     <br> 
     I'm an 👨🏻‍💻 AWS Solutions Architect with 4 years of experience.
     <br>
