@@ -4,7 +4,7 @@
   <br>
   <samp><strong>👋 Hi, I'm <a href="https://ktptran.xyz">Kevin</a>.</strong> 
     <br> 
-    I'm an 👨🏻‍💻 AWS Solutions Architect.
+    I'm a 👨🏻‍💻 Solutions Architect.
     <br>
     You can reach me through 📫 <a href="mailto:kevintptran@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ktptran">LinkedIn</a>.
     <br>
